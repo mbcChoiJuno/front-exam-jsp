@@ -11,3 +11,8 @@ tomcat 10.1
 
 # DB 
 192.168.0.171:6800/dvdmarketdb
+
+# TEST
+테스트 계정
+일반 :   junotest/12345
+관리자 : admin/1234
